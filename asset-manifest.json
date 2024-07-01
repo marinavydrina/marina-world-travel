@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marina-world-travel/static/css/main.5ff2544b.css",
+    "main.js": "/marina-world-travel/static/js/main.38d208e5.js",
+    "static/js/453.88901c3a.chunk.js": "/marina-world-travel/static/js/453.88901c3a.chunk.js",
+    "index.html": "/marina-world-travel/index.html",
+    "main.5ff2544b.css.map": "/marina-world-travel/static/css/main.5ff2544b.css.map",
+    "main.38d208e5.js.map": "/marina-world-travel/static/js/main.38d208e5.js.map",
+    "453.88901c3a.chunk.js.map": "/marina-world-travel/static/js/453.88901c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff2544b.css",
+    "static/js/main.38d208e5.js"
+  ]
+}
